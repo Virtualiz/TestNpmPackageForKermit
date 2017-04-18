@@ -110,6 +110,7 @@
     "body-parser": "^1.16.1",
     "bootstrap": "^3.3.7",
     "c3": "^0.4.11",
-    "compression": "^1.6.2"
+    "compression": "^1.6.2",
+    "convict": "^2.0.0"
   }
 }

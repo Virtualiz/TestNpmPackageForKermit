@@ -108,6 +108,7 @@
     "angular2-busy": "^1.0.2",
     "argon2": "^0.15.0",
     "body-parser": "^1.16.1",
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.3.7",
+    "c3": "^0.4.11"
   }
 }

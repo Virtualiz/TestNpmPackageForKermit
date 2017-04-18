@@ -122,7 +122,6 @@
     "jsdoc": "^3.4.3",
     "jsonwebtoken": "^7.3.0",
     "lodash": "^4.17.4",
-    "log4js": "^1.1.0",
     "systemjs": "0.19.41",
     "tunnel": "0.0.4",
     "underscore": "^1.8.3",

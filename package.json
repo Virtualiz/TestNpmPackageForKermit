@@ -108,23 +108,6 @@
     "angular2-busy": "^1.0.2",
     "argon2": "^0.15.0",
     "body-parser": "^1.16.1",
-    "bootstrap": "^3.3.7",
-    "c3": "^0.4.11",
-    "compression": "^1.6.2",
-    "convict": "^2.0.0",
-    "core-js": "^2.4.1",
-    "follow-redirects": "^1.2.3",
-    "gridfs-stream": "^1.1.1",
-    "gulp-po-json": "0.0.4",
-    "i18n": "^0.8.3",
-    "intl": "^1.2.5",
-    "jquery": "^3.1.1",
-    "jsdoc": "^3.4.3",
-    "jsonwebtoken": "^7.3.0",
-    "lodash": "^4.17.4",
-    "systemjs": "0.19.41",
-    "tunnel": "0.0.4",
-    "underscore": "^1.8.3",
-    "zone.js": "^0.7.2"
+    "bootstrap": "^3.3.7"
   }
 }
